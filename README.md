@@ -1,1 +1,2 @@
 # FoodCoopDataAnalysis
+Author: Marguerite Church
