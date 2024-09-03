@@ -23,7 +23,10 @@ As a member of the food coop, I am interested in the ways we can boost our sales
 
 I created this dataset, `recipes` myself by going through our archived menu documents and sales data from Square. We create our menus at the beginning of each week since we receive produce from the Food Rescue program and don't know what we will have until we pick it up. At our weekly meetings, we choose one recipe per day then write out instructions on how to prepare them. Here is a bit of a menu document from week 3 of spring quarter:
 ![UCSD Food Coop Menu Example](menuExample.png)
+
 `recipes` contains a row for every day we were open in the 2023-2024 school year, which amounts to 136. `recipes` has 13 columns, described below.
+
+
 | Column                | Description                                    |
 | :-------------------- |:---------------------------------------------- |
 | `'date'`              | Day the recipe was served                      |
@@ -39,5 +42,6 @@ I created this dataset, `recipes` myself by going through our archived menu docu
 | `'day'`               | Day of the week                                |
 | `'price_per_meal'`    | `'money_from_meals'` divided by `'meals_sold'` |
 | `'chickpeas'`         | If the recipe contains chickpeas|
+
 
 # Data Cleaning and Exploratory Data Analysis
