@@ -45,3 +45,15 @@ I created this dataset, `recipes` myself by going through our archived menu docu
 
 
 # Data Cleaning and Exploratory Data Analysis
+## Analyzing Yearly Sales Trends
+
+I wanted to compare the amount of money made solely on meals and the amount of money made in total.
+The money that isn't made on meals could be from people buying drinks or sambusas made by a local vendor.
+The red line is the total amount of money made each day and the pink line is the amount of money made
+off of our food made in house.
+<iframe
+  src="total_v_meals.html"
+  width="800"
+  height="400"
+  frameborder="0"
+></iframe>
