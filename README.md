@@ -52,7 +52,7 @@ The money that isn't made on meals could be from people buying drinks or sambusa
 The red line is the total amount of money made each day and the pink line is the amount of money made
 off of our food made in house.
 <iframe
-  src="total_v_meals.html"
+  src="assets/total_v_meals.html"
   width="800"
   height="400"
   frameborder="0"
@@ -65,7 +65,7 @@ this day was Country Potatoes. We sold 44 meals on this day bringin in $117.50 f
 Another thing I was curious about was what days we are able to make the most money on. I knew it wasn't going to be 
 Friday because on many Fridays food is free. I created five box and whisker charts for each day of the week shown below.
 <iframe
-  src="weekdays.html"
+  src="assets/weekdays.html"
   width="800"
   height="400"
   frameborder="0"
@@ -78,9 +78,10 @@ Since UCSD is on the quarter system, another distribution I wanted to explore wa
 are three quarters of the school year excluding summer: Fall, Winter and Spring. Each quarter is 10 weeks of instruction with one week for finals
 at the end. I decided to use more box and whisker charts.
 <iframe
-  src="quarters.html"
+  src="assets/quarters.html"
   width="800"
   height="400"
   frameborder="0"
 ></iframe>
-Each quarter the median total income increased and there is no major variation between the three.
+Each quarter the median total income increased and there is no major variation between the three. Winter has the smallest variation and 
+spring has the largest.
