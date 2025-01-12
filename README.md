@@ -85,3 +85,14 @@ at the end. I decided to use more box and whisker charts.
 ></iframe>
 Each quarter the median total income increased and there is no major variation between the three. Winter has the smallest variation and 
 spring has the largest.
+
+## Analyzing Meals Sold Each Week of the Quarter
+
+One last way to break down time is to look at the amount of meals sold during specific weeks of the quarter, 1-10. Midterms begin around week 3 and last until the quarter ends. Does it seem like midterms have any effect on whether or not people choose to go to the coop?
+<iframe
+  src="assets/week_of_qtr.html"
+  width="800"
+  height="400"
+  frameborder="0"
+></iframe>
+Week 6, the middle of the quarter has the lowest median at 21.5 meals sold and week 9 has the highest median with 38 meals sold. The amount of meals sold also has to do with the dish because some recipes make more servings than others. This is something we will revisit later.
