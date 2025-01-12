@@ -57,3 +57,30 @@ off of our food made in house.
   height="400"
   frameborder="0"
 ></iframe>
+As you can see from the chart, the day with the biggest difference is Tuesday January 16, 2024. The meal served on
+this day was Country Potatoes. We sold 44 meals on this day bringin in $117.50 from food sales and $208.50 total.
+
+## Analyzing Days of the Week
+
+Another thing I was curious about was what days we are able to make the most money on. I knew it wasn't going to be 
+Friday because on many Fridays food is free. I created five box and whisker charts for each day of the week shown below.
+<iframe
+  src="weekdays.html"
+  width="800"
+  height="400"
+  frameborder="0"
+></iframe>
+It seems to be that Thursday has the highest median total income at $128.5, but there is no major difference between weekdays except for Fridays.
+
+## Analyzing Quarters of the Year
+
+Since UCSD is on the quarter system, another distribution I wanted to explore was the relationship between money made and the quarter. There
+are three quarters of the school year excluding summer: Fall, Winter and Spring. Each quarter is 10 weeks of instruction with one week for finals
+at the end. I decided to use more box and whisker charts.
+<iframe
+  src="quarters.html"
+  width="800"
+  height="400"
+  frameborder="0"
+></iframe>
+Each quarter the median total income increased and there is no major variation between the three.
