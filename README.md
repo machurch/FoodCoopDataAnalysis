@@ -95,4 +95,4 @@ One last way to break down time is to look at the amount of meals sold during sp
   height="400"
   frameborder="0"
 ></iframe>
-Week 6, the middle of the quarter has the lowest median at 21.5 meals sold and week 9 has the highest median with 38 meals sold. The amount of meals sold also has to do with the dish because some recipes make more servings than others. This is something we will revisit later.
+Week 6, the middle of the quarter has the lowest median at 21.5 meals sold and week 9 has the highest median with 38 meals sold. The amount of meals sold also has to do with the dish because some recipes make more servings than others.
